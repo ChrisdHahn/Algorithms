@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+group :development, :test do
+  gem 'rspec'
+end
+
+gem 'minitest', '~> 5.8', '>= 5.8.4'
